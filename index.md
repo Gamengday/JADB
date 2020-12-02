@@ -1,6 +1,6 @@
-Just Another Discord Bot
+#Just Another Discord Bot
 
-XP:
+##XP:
 - new [user] | adds new member to xp system!
 - Add [user] [amount]| adds an amount of xp to a user!
 - Set | Sets a users xp to a certain amount!
