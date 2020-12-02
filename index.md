@@ -1,4 +1,8 @@
 # Just Another Discord Bot
+### Information 
+[Invite](https://top.gg/bot/705178864124428310/) to your server
+[Support Server](http://discord.gg/F9jttYk)
+
 ### **Commands**
 #### XP Commands:
 - new [user] | Adds a new member to xp system!
