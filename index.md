@@ -1,5 +1,5 @@
 # Just Another Discord Bot
-
+### **Commands**
 #### XP Commands:
 - new [user] | Adds a new member to xp system!
 - Add [user] [amount] | Adds an amount of xp to a user!
@@ -19,8 +19,15 @@
 #### Roblox Commands:
  - rbx userinfo [username] | Gathers infomation about a user on the ROBLOX platform.
  
+#### Ticket Commands:
+ - ticket new | Creates new ticket!
+ - ticket close | Admin command, closes a ticket!
+ - ticket clear | Admin command, clears queue!
+ - ticket setup | Used to set up a server for tickets upon first time! 
+ 
 #### Misc Commands:
  - userinfo [user] | Gathers infomation about a Discord User.
  - serverinfo | Gathers infomation about a Discord Guild.
  - ping | Returns the ping from the Bot.
+ - textmodify uwu [text] | Converts text to UwU.
  
