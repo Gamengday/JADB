@@ -16,3 +16,11 @@
  - settings apps | Starts the process to add questions to a "Department".
  - stealemoji [name] [link/emoji] | Uploads an emoji to the Guild.
                                                                                                     
+#### Roblox Commands:
+ - rbx userinfo [username] | Gathers infomation about a user on the ROBLOX platform.
+ 
+#### Misc Commands:
+ - userinfo [user] | Gathers infomation about a Discord User.
+ - serverinfo | Gathers infomation about a Discord Guild.
+ - ping | Returns the ping from the Bot.
+ 
