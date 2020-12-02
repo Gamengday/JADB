@@ -1,39 +1,18 @@
 # Just Another Discord Bot
 
-#### XP:
-- new [user] | adds new member to xp system!
-- Add [user] [amount]| adds an amount of xp to a user!
-- Set | Sets a users xp to a certain amount!
-- All | Shows all users Xp
-- Info | Shows a users xp
-- Clear | Clears the guilds XP
+#### XP Commands:
+- new [user] | Adds a new member to xp system!
+- Add [user] [amount] | Adds an amount of xp to a user!
+- set [user] [amount] | Sets a users xp to a certain amount!
+- all | Shows all users Xp
+- info [user] | Shows a users xp
+- clear | Clears the guilds XP
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Admin Commands:
+ - role [user] [role] | Roles a user to or from a role.
+ - reactionrole | Starts the process to create a reaction role menu in the channel the command is run.
+ - settings setup | Starts the process to set up the bot to use some features.
+ - settings clear | Clears the servers chosen settings.
+ - settings apps | Starts the process to add questions to a "Department".
+ - stealemoji [name] [link/emoji] | Uploads an emoji to the Guild.
+                                                                                                    
