@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+Just Another Discord Bot
 
-You can use the [editor on GitHub](https://github.com/Gamengday/JADB/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+XP:
+- new [user] | adds new member to xp system!
+- Add [user] [amount]| adds an amount of xp to a user!
+- Set | Sets a users xp to a certain amount!
+- All | Shows all users Xp
+- Info | Shows a users xp
+- Clear | Clears the guilds XP
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -27,10 +33,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gamengday/JADB/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
