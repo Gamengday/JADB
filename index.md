@@ -3,6 +3,14 @@
 - [Invite](https://top.gg/bot/705178864124428310/) to your server
 - [Support Server](http://discord.gg/F9jttYk)
 
+### **Setup Guide**
+When the bot has been added, it can be a little confusing! This guide should help you in navigating the bots potential!
+ 1. Run "r!settings setup" and input all the needed information.
+ 1. Run "r!settings apps" if you have applications, to add questions. *(Optional)*
+ 1. Run "r!ticket setup" to setup the ticket system. *(Optional)*
+ 1. Run "r!xp new" to add yourself, and first enable XP, adding new users is just as easy with "r!xp new [user]"! *(Optional)*
+ 1. To clear core settings, run "r!settings clear".
+
 ### **Commands**
 #### XP Commands:
 - new [user] | Adds a new member to xp system!
