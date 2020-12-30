@@ -10,6 +10,15 @@ When the bot has been added, it can be a little confusing! This guide should hel
  1. Run "r!ticket setup" to setup the ticket system. *(Optional)*
  1. Run "r!xp new" to add yourself, and first enable XP, adding new users is just as easy with "r!xp new [user]"! *(Optional)*
  1. To clear core settings, run "r!settings clear".
+ 
+### **NEW COMMAND**
+New command has been added! Captcha verifying is here!
+Setup is somewhat easy if you follow these instructions!
+1. Run "r!settings clear" *
+1. Run "r!settings setup" *
+1. Run "r!cg setup"
+After that, you are ready to go! People can verify using "r!verify"
+* = Only do this if you have previously set the bot up.
 
 ### **Commands**
 #### XP Commands:
@@ -43,3 +52,6 @@ When the bot has been added, it can be a little confusing! This guide should hel
  - ping | Returns the ping from the Bot.
  - textmodify uwu [text] | Converts text to UwU.
  
+ #### Verify Commands:
+ - cg setup | Sets up the bot to be able to do Captcha verifying.
+ - verify | Starts the captcha process.
