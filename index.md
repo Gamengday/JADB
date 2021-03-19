@@ -51,7 +51,7 @@ After that, you are ready to go! People can verify using "r!verify"
  - userinfo [user] | Gathers infomation about a Discord User.
  - serverinfo | Gathers infomation about a Discord Guild.
  - ping | Returns the ping from the Bot.
- - textmodify uwu [text] | Converts text to UwU.
+ - textmodify uwu/unA [text] | Converts text to UwU.
  
  #### Verify Commands:
  - cg setup | Sets up the bot to be able to do Captcha verifying.
