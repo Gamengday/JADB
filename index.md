@@ -45,6 +45,7 @@ After that, you are ready to go! People can verify using "r!verify"
  - rbx groupbind | Starts the process to bind a group to your Guild.
  - rbx roles | Gets a list of roles in the binded group.
  - **Below commands must have the client bot in your ROBLOX group, join the Support server for more info.**
+ - 
  - rbx rank [user] [rank] | Sets the target user to the set rank in the binded group.
  - rbx promote [user] | Promotes a user by one rank in the binded group.
  - rbx demote [user] | Demotes a user by one rank in the binded group.
@@ -60,6 +61,7 @@ After that, you are ready to go! People can verify using "r!verify"
  - serverinfo | Gathers infomation about a Discord Guild.
  - ping | Returns the ping from the Bot.
  - textmodify uwu/unA [text] | Converts text to UwU.
+ - uptime | Checks how long the current build has been up for.
  
  #### Verify Commands:
  - cg setup | Sets up the bot to be able to do Captcha verifying.
