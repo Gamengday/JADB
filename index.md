@@ -23,12 +23,14 @@ After that, you are ready to go! People can verify using "r!verify"
 
 ### **Commands**
 #### XP Commands:
-- new [user] | Adds a new member to xp system!
-- Add [user] [amount] | Adds an amount of xp to a user!
-- set [user] [amount] | Sets a users xp to a certain amount!
-- all | Shows all users Xp
-- info [user] | Shows a users xp
-- clear | Clears the guilds XP
+- xp new [user] | Adds a new member to xp system!
+- xp Add [user] [amount] | Adds an amount of xp to a user!
+- xp remove [user] [amount] | Removes an amount of XP from a certain user.
+- xp set [user] [amount] | Sets a users xp to a certain amount!
+- xp all | Shows all users XP.
+- xp top | Shows top 10 users.
+- xp info [user] | Shows a users XP.
+- xp clear | Clears the guilds XP.
 
 #### Admin Commands:
  - role [user] [role] | Roles a user to or from a role.
@@ -40,6 +42,12 @@ After that, you are ready to go! People can verify using "r!verify"
                                                                                                     
 #### Roblox Commands:
  - rbx userinfo [username] | Gathers infomation about a user on the ROBLOX platform.
+ - rbx groupbind | Starts the process to bind a group to your Guild.
+ - rbx roles | Gets a list of roles in the binded group.
+ # Below commands must have the client bot in your ROBLOX group, join the Support server for more info.
+ - rbx rank [user] [rank] | Sets the target user to the set rank in the binded group.
+ - rbx promote [user] | Promotes a user by one rank in the binded group.
+ - rbx demote [user] | Demotes a user by one rank in the binded group.
  
 #### Ticket Commands:
  - ticket new | Creates new ticket!
