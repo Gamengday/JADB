@@ -12,15 +12,6 @@ When the bot has been added, it can be a little confusing! This guide should hel
  1. Run "r!xp new" to add yourself, and first enable XP, adding new users is just as easy with "r!xp new [user]"! *(Optional)*
  1. To clear core settings, run "r!settings clear".
  
-### **NEW COMMAND**
-New command has been added! Captcha verifying is here!
-Setup is somewhat easy if you follow these instructions!
-1. Run "r!settings clear" *
-1. Run "r!settings setup" *
-1. Run "r!cg setup"
-After that, you are ready to go! People can verify using "r!verify"
-* = Only do this if you have previously set the bot up.
-
 ### **Commands**
 #### XP Commands:
 - xp new [user] | Adds a new member to xp system!
@@ -38,6 +29,7 @@ After that, you are ready to go! People can verify using "r!verify"
  - settings setup | Starts the process to set up the bot to use some features.
  - settings clear | Clears the servers chosen settings.
  - settings apps | Starts the process to add questions to a "Department".
+ - settings modify [settings choice] | Used to change a setting after setup.
  - stealemoji [name] [link/emoji] | Uploads an emoji to the Guild.
                                                                                                     
 #### Roblox Commands:
@@ -67,3 +59,9 @@ After that, you are ready to go! People can verify using "r!verify"
  #### Verify Commands:
  - cg setup | Sets up the bot to be able to do Captcha verifying.
  - verify | Starts the captcha process.
+
+#### Strike Commands:
+ - strike [user] [reason] | Used to give a strike to a user.
+ - strikes [user] | Used to see all strikes given to a user.
+ - strikeinfo [strike id] | Used to see infomation in detail about a strike.
+ - delstrike [strike id] | Used to delete a strike.
