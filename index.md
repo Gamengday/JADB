@@ -14,6 +14,7 @@ When the bot has been added, it can be a little confusing! This guide should hel
  
 ### **Commands**
 #### XP Commands:
+ALL ROBLOX COMMANDS TEMPORARILY DOWN
 - xp new [user] | Adds a new member to xp system!
 - xp Add [user] [amount] | Adds an amount of xp to a user!
 - xp remove [user] [amount] | Removes an amount of XP from a certain user.
