@@ -54,9 +54,15 @@ ALL ROBLOX COMMANDS TEMPORARILY DOWN
  - userinfo [user] | Gathers infomation about a Discord User.
  - serverinfo | Gathers infomation about a Discord Guild.
  - ping | Returns the ping from the Bot.
- - textmodify uwu/unA [text] | Converts text to UwU.
+ - textmodify uwu/unA/flip [text] | Converts text to UwU.
  - uptime | Checks how long the current build has been up for.
- 
+ - av [user] | Sends a users profile picture.
+ - rdog | Sends a random dog photo.
+ - rcat| Sends a random cat photo.
+ - rfox | Sends a random fox photo.
+ - help | Links to this site.
+ - invite | Links to the support server and the bot link.
+ - credit | Credit to all the amazing people and Libaries that make this bot possible!
  #### Verify Commands:
  - cg setup | Sets up the bot to be able to do Captcha verifying.
  - verify | Starts the captcha process.
