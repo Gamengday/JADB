@@ -60,6 +60,7 @@ ALL ROBLOX COMMANDS TEMPORARILY DOWN
  - rdog | Sends a random dog photo.
  - rcat| Sends a random cat photo.
  - rfox | Sends a random fox photo.
+ - rfact | Sends a random cool fact!
  - help | Links to this site.
  - invite | Links to the support server and the bot link.
  - credit | Credit to all the amazing people and Libaries that make this bot possible!
