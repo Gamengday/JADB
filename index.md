@@ -14,7 +14,6 @@ When the bot has been added, it can be a little confusing! This guide should hel
  
 ### **Commands**
 #### XP Commands:
-ALL ROBLOX COMMANDS TEMPORARILY DOWN
 - xp new [user] | Adds a new member to xp system!
 - xp Add [user] [amount] | Adds an amount of xp to a user!
 - xp remove [user] [amount] | Removes an amount of XP from a certain user.
@@ -63,7 +62,8 @@ ALL ROBLOX COMMANDS TEMPORARILY DOWN
  - rfact | Sends a random cool fact!
  - help | Links to this site.
  - invite | Links to the support server and the bot link.
- - credit | Credit to all the amazing people and Libaries that make this bot possible!
+ - credit | Credit to all the amazing people and libraries that make this bot possible!
+ 
  #### Verify Commands:
  - cg setup | Sets up the bot to be able to do Captcha verifying.
  - verify | Starts the captcha process.
